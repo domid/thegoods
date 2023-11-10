@@ -1,0 +1,3 @@
+https://developer.chrome.com/docs/extensions/migrating/manifest/
+https://developer.chrome.com/docs/extensions/migrating/to-service-workers/
+https://developer.chrome.com/docs/extensions/migrating/api-calls/
